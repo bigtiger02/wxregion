@@ -8,15 +8,16 @@
 
 由于为手工同步，当中可能有一些地区有缺失，大家可以通过 issues 提交问题，我会及时更新地址库。
 
-**需要注意的是，地址库中的行政区划编码由于有些缺失，不一定完全正确，仅供参考。**
+#需要注意的是，地址库中的行政区划编码由于有些缺失，不一定完全正确，仅供参考。
 
-**表结构**
+**表结构**  
+
 | id | pid | code | name | level | id_path | name_path | code_path | has_del |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 主键 | 父级别id | 行政区划编码 | 区划名称 | 层级 1为省 2为市 3为县/区  | id路径 | 名称路径 | 行政编码路径 | 删除标识 |
 
-# Spider-Man,Iron-Man and Cola-Man are brothers. We are fighting for world peace. 
+**Spider-Man,Iron-Man and Cola-Man are brothers. We are fighting for world peace. **
 
 <div align="center">
-<img width="300" height="300" src="qrcode.jpeg"/>
+<img width="400" height="400" src="qrcode.jpeg"/>
 </div>
