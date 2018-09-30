@@ -1,5 +1,8 @@
 # wxregion
-`同步时间:2018-09-30`      `file md5:705726E28CB1DEA96CD12DB228BF3651`
+
+**同步时间:2018-09-30**      
+
+**file md5:705726E28CB1DEA96CD12DB228BF3651**
 
 微信小程序提供了一个非常方便的地址库插件，调用后发现其中的数据还比较全，但微信并未开放其地址库，故编写了程序，以便开发人员使用。由于微信小程序自动化测试还尚未成熟，本次同步完全通过手工同步的，十分不易，还望大家多多推广，多多star。
 
@@ -7,6 +10,13 @@
 
 **需要注意的是，地址库中的行政区划编码由于有些缺失，不一定完全正确，仅供参考。**
 
-> Spider-Man,Iron-Man and Cola-Man are brothers.We are fighting for world peace.  
+**表结构**
+| id | pid | code | name | level | id_path | name_path | code_path | has_del |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 主键 | 父级别id | 行政区划编码 | 区划名称 | 层级 1为省 2为市 3为县/区  | id路径 | 名称路径 | 行政编码路径 | 删除标识 |
 
-[![赞赏码]](./qrcode.jpeg)
+# Spider-Man,Iron-Man and Cola-Man are brothers. We are fighting for world peace. 
+
+<div align="center">
+<img width="300" height="300" src="qrcode.jpeg"/>
+</div>
