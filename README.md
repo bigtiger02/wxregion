@@ -18,8 +18,3 @@
 
 
 **Spider-Man,Iron-Man and Cola-Man are brothers. We are fighting for world peace.**  
-
-
-<div align="center">
-<img width="400" height="400" src="qrcode.jpeg"/>
-</div>
